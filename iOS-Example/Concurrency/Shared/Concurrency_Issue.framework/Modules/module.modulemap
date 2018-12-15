@@ -1,0 +1,6 @@
+framework module Concurrency_Issue {
+    umbrella header "Concurrency_Issue.h"
+
+    export *
+    module * { export * }
+}
